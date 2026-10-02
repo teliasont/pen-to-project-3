@@ -39,7 +39,7 @@ const vehicleColors = [
   0xff9f1c /*0xa52523, 0xbdb638, 0x78b14b*/
 ];
 
-const lawnGreen = "#67C240";
+const lawnGreen = "#359bc3";
 const trackColor = "#546E90";
 const edgeColor = "#725F48";
 const treeCrownColor = 0x498c2c;
